@@ -1,0 +1,4 @@
+/media/dell/My Passport/MS DSAI/InterSem/CVLabs/Lab02/build/CMakeFiles/rebuild_cache.dir
+/media/dell/My Passport/MS DSAI/InterSem/CVLabs/Lab02/build/CMakeFiles/edit_cache.dir
+/media/dell/My Passport/MS DSAI/InterSem/CVLabs/Lab02/build/CMakeFiles/homo.dir
+/media/dell/My Passport/MS DSAI/InterSem/CVLabs/Lab02/build/CMakeFiles/opticalFlow.dir

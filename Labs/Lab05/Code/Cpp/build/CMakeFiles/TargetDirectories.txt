@@ -1,0 +1,3 @@
+/media/dell/My Passport/MS DSAI/InterSem/CVLabs/Lab05/Code/Cpp/build/CMakeFiles/rebuild_cache.dir
+/media/dell/My Passport/MS DSAI/InterSem/CVLabs/Lab05/Code/Cpp/build/CMakeFiles/edit_cache.dir
+/media/dell/My Passport/MS DSAI/InterSem/CVLabs/Lab05/Code/Cpp/build/CMakeFiles/kpmatching.dir

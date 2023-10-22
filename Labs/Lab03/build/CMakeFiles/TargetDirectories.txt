@@ -1,0 +1,3 @@
+/media/dell/My Passport/MS DSAI/InterSem/CVLabs/Lab03/build/CMakeFiles/rebuild_cache.dir
+/media/dell/My Passport/MS DSAI/InterSem/CVLabs/Lab03/build/CMakeFiles/edit_cache.dir
+/media/dell/My Passport/MS DSAI/InterSem/CVLabs/Lab03/build/CMakeFiles/calibration.dir
